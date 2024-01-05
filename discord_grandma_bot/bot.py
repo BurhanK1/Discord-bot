@@ -25,7 +25,7 @@ intents.typing = True  # You can adjust these based on your bot's needs
 intents.presences = True
 intents.message_content = True
 def run_discord_bot():
-    TOKEN = 'MTE1ODA4MjgwMjc4OTY2Njg0Nw.GX4NbL.AYXAyTczH_wQ3xuxFWvr1XkkorJfPMyPeroxEU'
+    TOKEN = 'not showing for privacy reasons'
     client = discord.Client(intents=intents)
 
 
